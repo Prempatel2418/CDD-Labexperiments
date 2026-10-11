@@ -1,0 +1,6 @@
+git clone https://github.com/YOUR-USERNAME/REPOSITORY.git
+cd REPOSITORY
+git switch -c feature-update
+git add .
+git commit -m "Implement requested update"
+git push -u origin feature-update
