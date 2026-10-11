@@ -2,3 +2,4 @@ Git laboratory exercise - main version
 Login feature work
 Repository synchronization exercise
 Conflict resolved
+Team collaboration exercise
